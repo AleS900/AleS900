@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Santiago Vargas, 🌱 I'm currently studying Computer Systems Engineering. I have a professional certificate in computer security and a computer forensic certificate. 
+I carry out several projects, in different programming languages, such as: Kotlin, Javascript, Java, Angular, Scala and Python.
 <!--
 **AleS900/AleS900** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
